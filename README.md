@@ -1,6 +1,6 @@
 # student_performance_in_exams
 In this project, I do analyze for student performance in exams with kaggle dataset: https://www.kaggle.com/datasets/spscientist/students-performance-in-exam
-This dataset has 1000 rows and 8 coloumns. Here is the detail.
+This dataset has 1000 rows and 8 coloumns. Here are the details.
 - gender: divided by female and male
 - race/ethnicity: divided into 5 groups, A to E
 - parental level of educational: there are 6 levels
