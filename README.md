@@ -11,12 +11,12 @@ This dataset has 1000 rows and 8 coloumns. Here are the details.
 - writing score
 
 The objectives of my analyze are:
-How the student gender is distributed?
-How each subjects are distributed?
-Which race/ethnicity does have high score?
-Does the parental level of education give impact to the student score?
-Which type of lunch tend to give impact to the student score?
-Does test preparation course help the student to get high score?
+1. How the student gender is distributed?
+2. How each subjects are distributed?
+3. Which race/ethnicity does have high score?
+4. Does the parental level of education give impact to the student score?
+5. Which type of lunch tend to give impact to the student score?
+6. Does test preparation course help the student to get high score?
 
 All the answers can be find out in my notebook. But, I'll share you my some insight below.
 ![Number of student by gender](https://user-images.githubusercontent.com/57255039/163589438-521d40a6-159a-420a-bb39-c1a014ab6998.png)
