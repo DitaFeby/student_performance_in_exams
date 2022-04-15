@@ -6,6 +6,9 @@ This dataset has 1000 rows and 8 coloumns. Here are the details.
 - parental level of educational: there are 6 levels
 - lunch: there are 2 types of student's lunch; standard and free/reduced
 - test preparation course: it divided students by completed the course or not
+- math score
+- reading score
+- writing score
 
 The objectives of my analyze are:
 How the student gender is distributed?
